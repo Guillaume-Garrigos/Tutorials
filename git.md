@@ -121,9 +121,24 @@ Git is not a tool that you use only to communicate with Github. You might have s
 
       `git diff 4dd7f5c948fdc11814041927e2c419283f5fe84c`
 
+      Is there any good software allowing to navigate visually across the files back in time? Like the History in Wikipedia articles? I can't find anything satisfying ...
 
 
+## Sending a local project onto Github
 
+   1. We assume that you have a local project with Git initialized, as explained in the previous section.
+
+   2. Go on Github, and create a new empty repository.
+
+   3. Follow the instructions to "push an existing repository from the command line", which consists in executing from your local folder three commands :
+
+      ```
+      git remote add origin https://github.com/your_name/your_project_name.git
+      git branch -M main
+      git push -u origin main
+      ```
+
+   4. Think about adding a README.md in your folder, this is what Github automatically reads to display information on the Github webpage.
 
 
 ## Final comments
@@ -136,4 +151,6 @@ This is an extremely summarized version of what can/should be done with git, and
 ### References
 
 - https://gcapes.github.io/git-course/03-history/
+- https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
 
