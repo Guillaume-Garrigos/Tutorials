@@ -121,7 +121,9 @@ Git is not a tool that you use only to communicate with Github. You might have s
 
       `git diff 4dd7f5c948fdc11814041927e2c419283f5fe84c`
 
-      Is there any good software allowing to navigate visually across the files back in time? Like the History in Wikipedia articles? I can't find anything satisfying ...
+   6. The above method is honestly not super friendly or visual. Thankfully, there are softwares allowing for a nice visualisation of all your previous commits. For instance the text editor Visual Studio Code has a feature called **Timeline view** which is pretty neat, and helps you to visualize all the commits you did in a file.
+   
+      ![](images/git_timeline.gif)
 
 
 ## Sending a local project onto Github
