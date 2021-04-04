@@ -46,7 +46,7 @@ Zotero is a software helping you to:
 
 In the following we are going to see how to install and set up Zotero on your computer, and explain in more details its main features.
 
-- [Installing Zotero]()
+- [Installing Zotero](zotero_install.md)
 
 
 
