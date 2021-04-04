@@ -92,9 +92,10 @@ I obtain this by asking for the format:
 
 You can of course choose your own rules, see [here](https://retorque.re/zotero-better-bibtex/citing/#configurable-citekey-generator) for more details.
 
+We are almost done!
 
 - Go now in Zotero > Tools > Zutilo Settings. 
-Hide everything, but "Fast copy" and "Fast copy (alt 1)".
+Hide everything, except "Fast copy" and "Fast copy (alt 1)" that you put to Zotero's menu.
 - Go in Zotero > Edit > Export > Defaut Format and select "Better Bibtex \cite{Citation Key} Quick Copy"
 - Go in Zotero > Edit > Setting > Advanced > Config editor, and type `export.quickCopy.setting` in the research bar
 - Right click on the line, and copy/paste the value somewhere. It should look like `export=a515a220-6fef-45ea-9842-8025dfebcc8f`
