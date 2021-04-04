@@ -16,17 +16,28 @@ Zotero is a software helping you to:
 
 ## What it looks like to use Zotero
 
-| Browsing across your papers and opening one | Using the research bar to find a paper |
+| Browsing across your papers and opening one |
+| --- |
+| ![](images/z_browsing.gif) |
+| Every document can be stored in a "collection", which makes it easy to find. By clicking on a document, it opens the attached file (here a .pdf).  |
+
+
+| Using the research bar to find a paper |
+| --- | 
+| ![](images/z_research.gif) |
+| You can do a research based on the title or the authors.  |
+
+
+| Getting a paper from arXiv |  |
 | --- | --- |
-| ![](images/z_browsing.gif) | ![](images/z_research.gif) |
-| Every document can be stored in a "collection", which makes it easy to find. By clicking on a document, it opens the attached file (here a .pdf).  | You can do a research based on the title or the authors.  |
+| ![](images/z_arxiv.gif)  |
+| Thanks to the Zotero plugin, you can directly download a paper in one-click into your database. The .pdf will be stored locally on your computer, the metadata about it will be automatically downloaded. | 
 
 
-| Getting a paper from the internet |  |
+| Getting a paper from onther places, like Google Scholar |  |
 | --- | --- |
-| ![](images/z_arxiv.gif) | ![](images/z_gscholar.gif) |
-| Thanks to the Zotero plugin, you can directly download a paper in one-click into your database. The .pdf will be stored locally on your computer, the metadata about it will be automatically downloaded. | It works on most academic websites, like arXiv, Google Scholar, or any official journal website (provided you have access to it). We'll see later how to do when you have access to the metadata only, but not the document itself. |
-
+|  ![](images/z_gscholar.gif) |
+|  It works on most academic websites, like arXiv, Google Scholar, or any official journal website (provided you have access to it). We'll see later how to do when you have access to the metadata only, but not the document itself. |
 
 | Exporting one or a group of paper citations to the paperboard |
 | --- |
