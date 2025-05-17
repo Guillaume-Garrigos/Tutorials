@@ -5,7 +5,7 @@
 - Get the last version of Zotero and install it [https://www.zotero.org/download/](https://www.zotero.org/download/).
 - Get the Zotero connector corresponding to your web Browser (Firfox, Chrome, Safari) and install it.
 - Get a few useful addons for Zotero :
-  - [Zotfile](http://zotfile.com/) which helps to automatically rename the pdfs you'll download, and eventually synchronize your library if you use Zotero on different computers.
+  - [Zotfile](http://zotfile.com/) which helps to automatically rename the pdfs you'll download, and eventually synchronize your library if you use Zotero on different computers. UPDATE: Zotfile is no longer maintained and is not compatible with Zotero >= 7.0. It still works fine with Zotero 6 though. IT seems that alternatives exist for Zotero 7, see [here](https://forums.zotero.org/discussion/116679/zotero-7-and-zotfile).
   - [Better Bibtex](https://retorque.re/zotero-better-bibtex/installation/) which provides helpful tools to export your bibliography.
   - [Zutilo](https://github.com/wshanks/Zutilo/releases) which provides advanced control on how to generate reference keys in your bibliography.
 
